@@ -37,8 +37,7 @@ exports.getCustomerInfo = (req, res, next) => {
                             message: "Your info",
                             data: info
                           })
-                        
-                        
+                                               
                     }
                 )
             }
